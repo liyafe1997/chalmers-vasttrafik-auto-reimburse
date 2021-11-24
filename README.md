@@ -37,7 +37,7 @@ MyStudentCardNumber is the card number, it will appear on the email be forwarded
 
 TargetMailAddress is the address forward to. You can use your own email to test firstly, then change to university's email.
 
-![3](https://user-images.githubusercontent.com/18359157/143303303-bb7c3a02-721b-4f75-8274-4bc23f5016c4.jpg)
+![9](https://user-images.githubusercontent.com/18359157/143308131-298eaa63-d85c-45f3-87da-8fd6489653fb.jpg)
 
 ## 5. Setup rule
 Click FILE->Rules and Alerts
