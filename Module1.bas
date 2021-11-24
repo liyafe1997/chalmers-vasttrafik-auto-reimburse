@@ -13,7 +13,7 @@ Sub ForwardVasttrafik(Item As Outlook.MailItem)
     TargetMailAddress = "ersattning@chalmersstudentkar.se"
     
     If TypeOf Item Is MailItem Then
-    Item.To = "yanfengl@student.chalmers.se"
+    Item.To = MyEmailAddress
         If InStr(Item.Body, TicketType) Then
             Set myForward = Item.Forward
             myForward.Subject = ("Fw: ") & Item.Subject
